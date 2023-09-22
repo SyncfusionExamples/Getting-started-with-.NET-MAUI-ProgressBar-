@@ -3,11 +3,11 @@ The [.NET MAUI ProgressBar](https://www.syncfusion.com/maui-controls/maui-progre
 
 ## Project pre-requisites
 
-Make sure that you have the compatible versions of Visual Studio with .NET MAUI workloads and .NET SDK version in your machine before starting to work on this project.
+Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with .NET MAUI workloads and [.NET SDK 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or later version in your machine before starting to work on this project.
 
 ## How to run this application?
 
-To run this application, you need to first clone the getting-started-with-the-dotnet-maui-progressbar repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
+To run this application, you need to first clone the 'getting-started-with-the-dotnet-maui-progressbar' repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
 
 ## Features and Benefits
