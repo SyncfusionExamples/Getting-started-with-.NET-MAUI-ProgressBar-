@@ -9,14 +9,13 @@ Make sure that you have the compatible versions of [Visual Studio 2022](https://
 
 To run this application, you need to first clone the 'getting-started-with-the-dotnet-maui-progressbar' repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
-
 ## Features and Benefits
 
 ### Segments
 Avoid writing several lines of code to create and position multiple progress bars: just split a progress bar into multiple segments to visualize the progress of multiple sequential tasks.
 
 ### Custom content
-Add any view to the center of a circular progress bar as a content to: indicate the completion of a task or process; add start, pause, or cancel buttons to control the progress interactively; add an image that indicates the actual task in progress; and add custom text that conveys the progress unit.
+Add any view to the center of a [Circular Progress Bar](https://www.syncfusion.com/maui-controls/maui-progressbar) as a content to: indicate the completion of a task or process; add start, pause, or cancel buttons to control the progress interactively; add an image that indicates the actual task in progress; and add custom text that conveys the progress unit.
 
 ### Visualize multiple ranges
 Along with visualizing the progression of a task, users can also visualize multiple ranges with gradient colors or solid colors based on the range to enhance readability.
@@ -41,7 +40,7 @@ Along with visualizing the progression of a task, users can also visualize multi
 
 ## About Syncfusion .NET MAUI Controls
 
-Syncfusion's [.NET MAUI UI Controls](https://www.syncfusion.com/maui-controls/maui-progressbar?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI controls in a single package. In addition to ProgressBar, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples).
+Syncfusion's [.NET MAUI UI Controls](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI controls in a single package. In addition to ProgressBar, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples).
 
 ## About Syncfusion
 
