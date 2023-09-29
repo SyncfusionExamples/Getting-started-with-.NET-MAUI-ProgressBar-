@@ -12,10 +12,10 @@ To run this application, you need to first clone the 'getting-started-with-the-d
 ## Features and Benefits
 
 ### Segments
-Avoid writing several lines of code to create and position multiple progress bars: just split a progress bar into multiple segments to visualize the progress of multiple sequential tasks.
+Avoid writing several lines of code to create and position multiple progress bars: just split a progress bar into multiple [segments](https://help.syncfusion.com/maui/circularprogressbar/segments) to visualize the progress of multiple sequential tasks.
 
 ### Custom content
-Add any view to the center of a [Circular Progress Bar](https://www.syncfusion.com/maui-controls/maui-progressbar) as a content to: indicate the completion of a task or process; add start, pause, or cancel buttons to control the progress interactively; add an image that indicates the actual task in progress; and add custom text that conveys the progress unit.
+Add any view to the center of a circular progress bar as a [content](https://help.syncfusion.com/maui/circularprogressbar/custom-content) to: indicate the completion of a task or process; add start, pause, or cancel buttons to control the progress interactively; add an image that indicates the actual task in progress; and add custom text that conveys the progress unit.
 
 ### Visualize multiple ranges
 Along with visualizing the progression of a task, users can also visualize multiple ranges with gradient colors or solid colors based on the range to enhance readability.
