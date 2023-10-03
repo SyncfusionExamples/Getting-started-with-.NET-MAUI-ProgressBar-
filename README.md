@@ -7,7 +7,7 @@ Make sure that you have the compatible versions of [Visual Studio 2022](https://
 
 ## How to run this application?
 
-To run this application, you need to first clone the 'getting-started-with-the-dotnet-maui-progressbar' repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
+To run this application, you need to first clone the `getting-started-with-the-dotnet-maui-progressbar` repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
 ## Features and Benefits
 
