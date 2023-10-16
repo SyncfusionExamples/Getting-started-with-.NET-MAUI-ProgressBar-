@@ -32,7 +32,7 @@ Along with visualizing the progression of a task, users can also visualize multi
 
 [View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/ProgressBar?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples) 
 
-[Community Forums](https://www.syncfusion.com/forums/maui?control=sfcircularprogressbar?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples)
+[Community Forums](https://www.syncfusion.com/forums/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-progressbar-github-samples)
 
